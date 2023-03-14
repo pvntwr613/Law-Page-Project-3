@@ -12,4 +12,4 @@
 
 **This project took 3 Hours to Complete.**
 *** 
-![image](./assets/Landing-Page.jpg)
+![image](./Law%20page.jpeg)
