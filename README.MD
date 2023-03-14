@@ -12,4 +12,4 @@
 
 **This project took 3 Hours to Complete.**
 *** 
-![image](../live-class-project-3/assets/Landing-Page.jpg)# Law-Page-Project-3-
+![image](./assets/Landing-Page.jpg)
