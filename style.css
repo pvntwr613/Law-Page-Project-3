@@ -21,7 +21,7 @@
   /* ---------- NAVBAR ------------ */
   .navbar{
     margin-top: 50px;
-    margin-left: 100px;
+    margin-left: 5px;
     display: flex;
     font-size: larger;
   
@@ -34,7 +34,7 @@
     align-items: center;
     justify-content: center;
     margin-top: 20px;
-    margin-left: 200px;
+    margin-left: 150px;
     gap: 100px;
     font-size: 20px;
     
@@ -53,8 +53,8 @@
   .button-small{
     margin-top: 10px;
     height: 70px;
-    width: 250px;
-    margin-left: 200px;
+    width: 200px;
+    margin-left: 50px;
     color:#897a2f;
     background:transparent;
     font-weight: 700;
@@ -70,8 +70,8 @@
   .hero{
     
     display: flex;
-    height: 500px;
-    padding: 100px 0px 100px 100px;
+    height: 400px;
+   
     
   
   }
@@ -81,16 +81,18 @@
     font-size: 70px;
     color: #f5efef;
     height: 100px;
-    width: 60%;
+    width: 700px;
+    padding-top: 50px;
+    padding-left: 25px;
   }
   
   .hero-body{
     display: flex;
     color: #f3eeee;
-    padding: 1px 300px 0px 210px;
-    margin-right: -120px;
-    width: 80%;
-    font-size: 25px;
+    padding-top: 50px;
+    margin-left: 150px;
+    width:600px;
+    font-size: 20px;
     line-height: 50px;
    
   }
@@ -102,7 +104,7 @@
     height: 100px;
     width: 100px;
     right: 100px;
-    bottom: -342px;
+    bottom: -518px;
     justify-content: center;
     align-items: center;
     display: flex;
@@ -116,7 +118,7 @@
     height: 100px;
     width: 100px;
     right: 0px;
-    bottom: -342px;
+    bottom: -518px;
     justify-content: center;
     align-items: center;
     display: flex;
